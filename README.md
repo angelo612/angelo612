@@ -1,5 +1,5 @@
-### Olá eu sou Angelo Gabriel, ![image](https://github.com/angelo612/angelo612/assets/73260926/147969db-1772-4c51-8868-98e148055a64)
-
+![image](https://github.com/angelo612/angelo612/assets/73260926/147969db-1772-4c51-8868-98e148055a64)
+### Olá eu sou Angelo Gabriel,
 ### Sobre Angelo:
 
 A três anos venho fazendo a transição de carreira para area de dados, iniciei minha jornada na area de dados, fazendo o curso de Analista de dados
