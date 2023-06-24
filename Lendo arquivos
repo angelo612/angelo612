@@ -1,0 +1,4 @@
+conteudo = None
+with open(file='/content/relatorio_16_05_2023.csv',mode='r',encoding='utf8') as arquivo:
+  conteudo = arquivo.read()
+  print(conteudo)
